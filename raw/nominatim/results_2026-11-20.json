@@ -1,0 +1,413 @@
+{
+ "Policlinico Paolo Giaccone Palermo": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 53660358,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 24623368,
+    "lat": "38.1044530",
+    "lon": "13.3610802",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.1773516541617975,
+    "addresstype": "amenity",
+    "name": "Azienda Ospedaliera Universitaria Policlinico \"Paolo Giaccone\"",
+    "display_name": "Azienda Ospedaliera Universitaria Policlinico \"Paolo Giaccone\", Via Gaetano Lodato, Villaggio Santa Rosalia, III Circoscrizione, Palermo, Sicilia, 90127, Italia",
+    "boundingbox": [
+     "38.1026807",
+     "38.1067243",
+     "13.3583232",
+     "13.3627324"
+    ]
+   }
+  ]
+ },
+ "Ospedale Civico Palermo": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 53900318,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 24623403,
+    "lat": "38.1033119",
+    "lon": "13.3582682",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 7.561226825355943e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Civico e Benefratelli \"G. Di Cristina\" e \"M. Ascoli\"",
+    "display_name": "Ospedale Civico e Benefratelli \"G. Di Cristina\" e \"M. Ascoli\", Via Andrea Chiaramonte, Falsomiele, III Circoscrizione, Palermo, Sicilia, 90127, Italia",
+    "boundingbox": [
+     "38.1002281",
+     "38.1061869",
+     "13.3555213",
+     "13.3609691"
+    ]
+   },
+   {
+    "place_id": 53952446,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 81193120,
+    "lat": "38.1033334",
+    "lon": "13.3547225",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 7.561226825355943e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Civico e Benefratelli \"G. Di Cristina\" e \"M. Ascoli\"",
+    "display_name": "Ospedale Civico e Benefratelli \"G. Di Cristina\" e \"M. Ascoli\", Via Carmelo Lazzaro, Villaggio Santa Rosalia, IV Circoscrizione, Palermo, Sicilia, 90128, Italia",
+    "boundingbox": [
+     "38.1029498",
+     "38.1037332",
+     "13.3542008",
+     "13.3552455"
+    ]
+   },
+   {
+    "place_id": 53477446,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 556714636,
+    "lat": "38.0375153",
+    "lon": "13.1153650",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 5.79713130387887e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Civico di Partinico",
+    "display_name": "Ospedale Civico di Partinico, Via Piersanti Mattarella, Partinico, Palermo, Sicilia, 90047, Italia",
+    "boundingbox": [
+     "38.0366414",
+     "38.0383879",
+     "13.1142828",
+     "13.1165286"
+    ]
+   }
+  ]
+ },
+ "ISMETT Palermo": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 53317747,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 1222940,
+    "lat": "38.1017403",
+    "lon": "13.3580549",
+    "category": "building",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.2636224323479305,
+    "addresstype": "building",
+    "name": "ISMETT",
+    "display_name": "ISMETT, Viale Fra Giuliano Majali, Villaggio Santa Rosalia, IV Circoscrizione, Palermo, Sicilia, 90127, Italia",
+    "boundingbox": [
+     "38.1014160",
+     "38.1025882",
+     "13.3576212",
+     "13.3590615"
+    ]
+   },
+   {
+    "place_id": 53179167,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 13167191204,
+    "lat": "38.1013581",
+    "lon": "13.3570219",
+    "category": "railway",
+    "type": "tram_stop",
+    "place_rank": 30,
+    "importance": 7.561226825355943e-05,
+    "addresstype": "railway",
+    "name": "ISMETT",
+    "display_name": "ISMETT, Via Ernesto Tricomi, Villaggio Santa Rosalia, IV Circoscrizione, Palermo, Sicilia, 90127, Italia",
+    "boundingbox": [
+     "38.1013081",
+     "38.1014081",
+     "13.3569719",
+     "13.3570719"
+    ]
+   }
+  ]
+ },
+ "Policlinico Gaetano Martino Messina": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 53564932,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 153761491,
+    "lat": "38.1647706",
+    "lon": "15.5356849",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 7.084992751960048e-05,
+    "addresstype": "amenity",
+    "name": "Policlinico Universitario Gaetano Martino",
+    "display_name": "Policlinico Universitario Gaetano Martino, Via Rinaldo Bonanno, Mangialupi, Gazzi, III Circoscrizione, San Filippo Inferiore, Messina, Sicilia, 98147, Italia",
+    "boundingbox": [
+     "38.1617770",
+     "38.1679017",
+     "15.5283320",
+     "15.5385071"
+    ]
+   }
+  ]
+ },
+ "Policlinico Rodolico Catania": {
+  "status": 200,
+  "results": []
+ },
+ "Ospedale Garibaldi Centro Catania": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 53527811,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 25010933,
+    "lat": "37.5110191",
+    "lon": "15.0768486",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 7.121309224074186e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Garibaldi Centro",
+    "display_name": "Ospedale Garibaldi Centro, Via Amba Alagi, Antico Corso, Centro storico, Catania, Sicilia, 95124, Italia",
+    "boundingbox": [
+     "37.5101528",
+     "37.5121020",
+     "15.0749765",
+     "15.0788485"
+    ]
+   }
+  ]
+ },
+ "Ospedale Garibaldi Nesima Catania": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 53923678,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 25252193,
+    "lat": "37.5115062",
+    "lon": "15.0430085",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.19283288150311992,
+    "addresstype": "amenity",
+    "name": "Ospedale Garibaldi Nesima",
+    "display_name": "Ospedale Garibaldi Nesima, Via Vincenzo Viviani, Nesima, Monte Po-Nesima-San Leone-Rapisardi, Catania, Sicilia, 95122, Italia",
+    "boundingbox": [
+     "37.5097908",
+     "37.5132019",
+     "15.0410539",
+     "15.0451335"
+    ]
+   }
+  ]
+ },
+ "Ospedale Sant'Elia Caltanissetta": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 54394697,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 452542556,
+    "lat": "37.4904746",
+    "lon": "14.0309610",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.105668726630072e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Sant'Elia",
+    "display_name": "Ospedale Sant'Elia, Galleria Caltanissetta, Caltanissetta, Sicilia, 93100, Italia",
+    "boundingbox": [
+     "37.4893318",
+     "37.4917566",
+     "14.0290649",
+     "14.0330400"
+    ]
+   }
+  ]
+ },
+ "Fondazione Giglio Cefalù": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 53718475,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 676721263,
+    "lat": "38.0279694",
+    "lon": "14.0123641",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.065995269698661e-05,
+    "addresstype": "amenity",
+    "name": "Fondazione Istituto Giuseppe Giglio",
+    "display_name": "Fondazione Istituto Giuseppe Giglio, Viale G. Giardina, Contrada Spinito, Cefalù, Palermo, Sicilia, 90015, Italia",
+    "boundingbox": [
+     "38.0266987",
+     "38.0291906",
+     "14.0106529",
+     "14.0143503"
+    ]
+   }
+  ]
+ },
+ "Centro Cuore Morgagni Catania": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 53756107,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 485555162,
+    "lat": "37.6172218",
+    "lon": "15.0520608",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 4.986266880288422e-05,
+    "addresstype": "amenity",
+    "name": "Centro Cuore Morgagni",
+    "display_name": "Centro Cuore Morgagni, Via La Rosa, Pedara, Catania, Sicilia, 95053, Italia",
+    "boundingbox": [
+     "37.6163598",
+     "37.6180611",
+     "15.0512393",
+     "15.0535474"
+    ]
+   }
+  ]
+ },
+ "Casa di Cura Di Stefano Catania": {
+  "status": 200,
+  "results": []
+ },
+ "Policlinico G. Rodolico Catania": {
+  "status": 200,
+  "results": []
+ },
+ "Ospedale Gaspare Rodolico Catania": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 53610334,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 70064157,
+    "lat": "37.5299837",
+    "lon": "15.0702874",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.14389741120638372,
+    "addresstype": "amenity",
+    "name": "Ospedale Gaspare Rodolico",
+    "display_name": "Ospedale Gaspare Rodolico, Via Santa Sofia, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95125, Italia",
+    "boundingbox": [
+     "37.5273598",
+     "37.5328176",
+     "15.0675277",
+     "15.0731415"
+    ]
+   }
+  ]
+ },
+ "Policlinico Universitario Catania": {
+  "status": 200,
+  "results": []
+ },
+ "Ospedale San Marco Catania": {
+  "status": 200,
+  "results": [
+   {
+    "place_id": 53913847,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 28898010,
+    "lat": "37.5079695",
+    "lon": "15.0859055",
+    "category": "building",
+    "type": "yes",
+    "place_rank": 30,
+    "importance": 0.22052600253021823,
+    "addresstype": "building",
+    "name": "Palazzo Tezzano",
+    "display_name": "Palazzo Tezzano, Via Monte Sant'Agata, Antico Corso, Centro storico, Catania, Sicilia, 95124, Italia",
+    "boundingbox": [
+     "37.5075978",
+     "37.5083289",
+     "15.0851843",
+     "15.0860459"
+    ]
+   },
+   {
+    "place_id": 54020357,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 468454241,
+    "lat": "37.4800172",
+    "lon": "15.0381272",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 7.121309224074186e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale San Marco",
+    "display_name": "Ospedale San Marco, Viale Moncada, Librino, San Giorgio-Librino-San Giuseppe la Rena-Zia Lisa-Villaggio Sant'Agata, Catania, Sicilia, 95121, Italia",
+    "boundingbox": [
+     "37.4778333",
+     "37.4821611",
+     "15.0326175",
+     "15.0440826"
+    ]
+   },
+   {
+    "place_id": 53820460,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8526457610,
+    "lat": "37.4791451",
+    "lon": "15.0380786",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 7.121309224074186e-05,
+    "addresstype": "highway",
+    "name": "Ospedale San Marco",
+    "display_name": "Ospedale San Marco, SP205, San Giorgio, San Giorgio-Librino-San Giuseppe la Rena-Zia Lisa-Villaggio Sant'Agata, Catania, Sicilia, 95121, Italia",
+    "boundingbox": [
+     "37.4790951",
+     "37.4791951",
+     "15.0380286",
+     "15.0381286"
+    ]
+   }
+  ]
+ },
+ "IRCCS ISMETT": {
+  "status": 200,
+  "results": []
+ }
+}

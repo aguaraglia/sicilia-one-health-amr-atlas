@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "edition": "sicilia_amr_atlas",
+  "source_id": "ar_iss_2024_sicilia",
+  "period": 2024,
+  "geography": "Sicilia",
+  "scope": "isolati da sangue e liquor; sorveglianza AR-ISS",
+  "coverage": {
+    "value_percent": 77.0,
+    "denominator": "giornate di degenza per ricoveri ordinari per acuti; SDO dimessi 2023",
+    "limitations": "non corregge per gravità; considera i laboratori che hanno inviato emocolture e/o liquor; la Sicilia partecipa con la propria rete regionale (referenti F. G. Leanza e S. Stefani) e 27 laboratori referenti elencati nel 2024 (Palermo, Catania, Messina, Agrigento, Caltanissetta, Enna, Ragusa, Siracusa, Trapani, Taormina, Caltagirone, Acireale, Gela, Pedara, Cefalù); serie con numerosità piccole fino al 2018"
+  },
+  "indicators": [
+    {
+      "code": "MRSA",
+      "pathogen": "Staphylococcus aureus",
+      "resistance": "meticillina",
+      "isolates": 777,
+      "resistant": 225,
+      "percent": 29.0,
+      "ci95": "25.8-32.3"
+    },
+    {
+      "code": "VRE-faecium",
+      "pathogen": "Enterococcus faecium",
+      "resistance": "vancomicina",
+      "isolates": 451,
+      "resistant": 193,
+      "percent": 42.8,
+      "ci95": "38.2-47.5"
+    },
+    {
+      "code": "CREC",
+      "pathogen": "Escherichia coli",
+      "resistance": "cefalosporine di terza generazione",
+      "isolates": 1471,
+      "resistant": 581,
+      "percent": 39.5,
+      "ci95": "37.0-42.1"
+    },
+    {
+      "code": "CRKP",
+      "pathogen": "Klebsiella pneumoniae",
+      "resistance": "carbapenemi",
+      "isolates": 1252,
+      "resistant": 700,
+      "percent": 55.9,
+      "ci95": "53.1-58.7"
+    },
+    {
+      "code": "CRPA",
+      "pathogen": "Pseudomonas aeruginosa",
+      "resistance": "carbapenemi",
+      "isolates": 571,
+      "resistant": 100,
+      "percent": 17.5,
+      "ci95": "14.5-20.9"
+    },
+    {
+      "code": "CRAS",
+      "pathogen": "Acinetobacter species",
+      "resistance": "carbapenemi",
+      "isolates": 624,
+      "resistant": 593,
+      "percent": 95.0,
+      "ci95": "93.0-96.6"
+    }
+  ],
+  "trend_note": "Serie 2015-2024 nell'Appendice A: MRSA 46,5% (2019) -> 36,0% (2022) -> 29,0% (2024); VRE-faecium 7,1% (2019) -> 28,6% (2022) -> 42,8% (2024); CREC 45,3% (2019) -> 35,1% (2022) -> 39,5% (2024); CRKP 52,9% (2019) -> 60,1% (2020) -> 55,9% (2024); CRPA 19,4% (2019) -> 30,2% (2021) -> 17,5% (2024); CRAS 91,5% (2019) -> 85,6% (2020) -> 95,0% (2024). Fino al 2018 i numeri sono piccoli (0-132 isolati per indicatore); dal 2019 la rete regionale porta centinaia di isolati: le variazioni riflettono anche l'allargamento della rete.",
+  "license": "CC BY 4.0 (Note legali ISS, valide anche per EpiCentro: https://www.iss.it/contatti ; https://www.epicentro.iss.it/chi-siamo/disclaimer)",
+  "source": {
+    "title": "AR-ISS: sorveglianza nazionale dell Antibiotico-Resistenza. Dati 2024",
+    "report": "RIS-5/2025",
+    "table": "Tabella 1 (copertura, p. 12 del PDF) e Appendice A, Regione Sicilia (p. 55 a stampa, p. 63 del PDF); laboratori p. 42 e referenti regionali p. 43 del PDF",
+    "url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+    "acquired_at": "2026-11-20",
+    "sha256": "50174DC846E19C6EAD2EA4D55982FC098487251A5EDAB8D484D6101B31482F0F"
+  }
+}

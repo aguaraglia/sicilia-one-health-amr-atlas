@@ -1,0 +1,40 @@
+{
+  "id": "sicilia_amr_atlas",
+  "regionCode": "SIC",
+  "regionName": "Sicilia",
+  "title": "Atlante One Health AMR · Sicilia",
+  "shortName": "Sicilia One Health",
+  "brandIcon": "public/brand/sicilia-region-mark.svg",
+  "language": "it",
+  "publisher": "Codex Vitae ETS",
+  "dataStatusLabel": "Letteratura scientifica aggiornata il 20 novembre 2026 (93 studi). Sette strutture georiferite: Policlinico «Paolo Giaccone» 8, ISMETT 5, Policlinico «G. Martino» 3, Sant'Elia 2, ARNAS Civico 1, Fondazione Giglio 1, Centro Cuore Morgagni 1. Palermo 37 studi, Catania 10, Messina 6, Caltanissetta 2, Ragusa 2, Agrigento 0, Enna 0, Siracusa 0, Trapani 0, cinque studi su più province, 31 a scala regionale sul contorno. Fonti istituzionali: AR-ISS 2024 (copertura 77,0%, 27 laboratori, CC BY 4.0) e AIFA Open Data 2024 J01 (CC BY 4.0, codreg 190).",
+  "literaturePlacePhrase": "alla Sicilia",
+  "publicScopeSummary": "Confini ISTAT 2026 letti in UTF-8 (391 comuni, 9 unità sovracomunali di cui le città metropolitane di Palermo, Messina e Catania, regione 19); AR-ISS 2024 (CC BY 4.0; copertura 77,0%, rete regionale con 27 laboratori referenti); AIFA Open Data 2024, antibatterici J01 (CC BY 4.0, codreg 190). Sette punti Nominatim (ODbL): AOU Policlinico «Paolo Giaccone», ARNAS Civico e IRCCS ISMETT a Palermo, AOU Policlinico «G. Martino» a Messina, Ospedale Sant'Elia a Caltanissetta, Fondazione Istituto G. Giglio a Cefalù, Centro Cuore Morgagni a Pedara. Letteratura scientifica del 20 novembre 2026 (93 studi: 21 strutture, 30 comuni, 11 province, 31 regionali). Il portale regionale, Qualità Sicilia SSR, dati.regione.sicilia.it, ARPA Sicilia, i siti dei Policlinici, il sito dell'IZS della Sicilia e il PDF OsMed sono esclusi o non disponibili. Il segnaposto indica il luogo dello studio, non una prevalenza. Le aree vuote indicano nessuna evidenza pubblicata. Palermo 37 studi, Catania 10, Messina 6, Caltanissetta 2, Ragusa 2, Agrigento 0, Enna 0, Siracusa 0, Trapani 0. Ustica e Casteldaccia sono tra i comuni con uno studio.",
+  "map": {
+    "center": [
+      37.6,
+      14.15
+    ],
+    "zoom": 7
+  },
+  "overviewLiteratureLabel": "studi sulla mappa",
+  "provinceOutlines": {
+    "file": "public/geography/atlas_provinces.geojson",
+    "labels": {
+      "Trapani": "Trapani · 0 studi",
+      "Palermo": "Palermo · 37 studi",
+      "Messina": "Messina · 6 studi",
+      "Agrigento": "Agrigento · 0 studi",
+      "Caltanissetta": "Caltanissetta · 2 studi",
+      "Enna": "Enna · 0 studi",
+      "Catania": "Catania · 10 studi",
+      "Ragusa": "Ragusa · 2 studi",
+      "Siracusa": "Siracusa · 0 studi"
+    }
+  },
+  "catalogs": {
+    "layers": "public/data/layer-catalog.json",
+    "evidence": "public/data/evidence-catalog.json",
+    "literature": "public/data/literature-catalog.json"
+  }
+}
